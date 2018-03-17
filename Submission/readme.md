@@ -9,7 +9,7 @@ We choose to design and present our project as a website. At the first place, ea
 
 <h2>Team roles for each individual:</h2>
 
-Tianlun Zhao(BlakeTZ): I used python notebook to plot a pie chart for my data by using the data cleaned by Hathaway with race_major. It is about percentage of each race in each major. (Fifth Page)
+Tianlun Zhao(BlakeTZ): I used python notebook to plot a pie chart by using the data cleaned by Hathaway with race_major. It is about percentage of each race in each major, and it can show us that each race is good at and interested in which major.(Fifth Page)
 
 Yi Man(yima1736): I clean the "major.csv" data and create a visualization connent with this data. I use d3 to create the viusaliazation, so the debug part is the hardest part for me. There is still a problem that I did not figure out. I want to create a function which can help users to sort the data such as if you click a button, the data will sort from smallest to largest. I am still working on this one. (Fourth Page)
 
