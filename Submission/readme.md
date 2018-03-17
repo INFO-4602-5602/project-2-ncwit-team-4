@@ -24,3 +24,4 @@ Hathaway Zhang(hathaaaway): Cleaning the raw data "NCWIT_DataV2_RawData.csv". Us
 1. Download and unzip the Submission folder
 2. Run the local server
 3. Go to directory of submission
+4. The 2nd visualization Score vs Major would only work in Submission/Code/Hathaway/project2.ipynb
