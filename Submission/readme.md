@@ -13,7 +13,7 @@ Tianlun Zhao(BlakeTZ):(Fifth Page)
 
 Yi Man(yima1736): I clean the "major.csv" data and create a visualization connent with this data. I use d3 to create the viusaliazation, so the debug part is the hardest part for me. There is still a problem that I did not figure out. I want to create a function which can help users to sort the data such as if you click a button, the data will sort from smallest to largest. I am still working on this one. (Fourth Page)
 
-Gongyuan Xing(DominicXing): (Third Page)
+Gongyuan Xing(DominicXing): I'm very interested in the 5th Asian female student number. I spent a lot of time on cleaning the data and finally, I got the 5th Asian female student number in different enrollment years. I used d3js in html plot a line chart for my data, which illustrated the trend of 5th Asian female student(Third Page)
 
 Yonghao Zhang(SilentSingerZ): I plotted a set of line graphs and a streamflow graph by using the data cleaned by Hathaway with attributes of Race, year and student number. And I combined everyone's code to a single one as a website, which including Dynamic Queries and excellent UI design. (First Page)
 
